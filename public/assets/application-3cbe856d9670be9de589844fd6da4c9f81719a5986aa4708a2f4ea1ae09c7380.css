@@ -1,0 +1,453 @@
+/* line 1, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+body {
+  font-family: 'Avenir Next';
+}
+
+/* line 5, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+html, body {
+  font-family: 'Avenir Next';
+  background: #F1F1F1;
+}
+
+/* line 10, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.background {
+  background: url("Home1.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding-top: 20px;
+  padding-bottom: 320px;
+}
+
+/* line 21, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.phone1 {
+  color: #2FC7AB;
+  font-size: 12px;
+}
+
+/* line 26, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.btn-group {
+  margin-left: 1160px;
+  text-decoration: none;
+}
+
+/* line 33, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.fa-navicon:before, .fa-reorder:before, .fa-bars:before {
+  content: "\f0c9";
+  color: #2FC7AB;
+}
+
+/* line 38, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.dropdown-menu {
+  background-color: #F1F1F2;
+}
+
+/* line 42, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.icon {
+  color: #2FC7AB;
+}
+
+/* line 46, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.banner-top {
+  color: #F1F1F2;
+}
+
+/* line 50, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.img1 {
+  width: 40%;
+  height: 40%;
+  margin-left: 640px;
+  margin-bottom: 20px;
+  margin-top: 110px;
+}
+
+/* line 58, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.frontline {
+  margin-bottom: 20px;
+  margin-left: 670px;
+  margin-right: 90px;
+  font-size: 24px;
+  font-weight: 400;
+}
+
+/* line 67, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.sub-title {
+  font-weight: 500;
+  font-size: 18px;
+  padding-top: 27px;
+  padding-bottom: 18px;
+  margin-bottom: 68px;
+  color: #F1F1F1;
+  background-color: #2FC7AB;
+}
+
+/* line 77, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+element.style {
+  color: #2FC7AB;
+  margin-left: 35px;
+}
+
+/* line 82, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.vp {
+  background-color: #F2F2F2;
+}
+
+/* line 86, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.mock {
+  width: 85%;
+  height: 85%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* line 94, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.img2 {
+  width: 58%;
+  height: 58%;
+  margin-top: 91px;
+  padding-left: 68px;
+}
+
+/* line 103, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.cont {
+  background-color: #F1F1F1;
+  width: 100%;
+  height: 100%;
+  padding-top: 20px;
+}
+
+/* line 110, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.card {
+  margin-bottom: 40px;
+  width: 25%;
+  color: #1A2A3A;
+  justify-content: space-between;
+  padding-bottom: 18px;
+  margin-right: 15px;
+  margin-left: 20px;
+  border-radius: 10px;
+}
+
+/* line 121, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.row {
+  margin-bottom: 5px;
+  margin-top: 40px;
+}
+
+/* line 126, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.card-expl {
+  padding: 14px;
+  margin-right: 40px;
+  margin-left: 40px;
+}
+
+/* line 132, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.imag1 {
+  border: 2px solid #2FC7AB;
+  border-radius: 50px;
+  width: 75px;
+  height: 75px;
+  text-align: center;
+  padding: 19px;
+}
+
+/* line 140, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.imag2 {
+  border: 2px solid #2FC7AB;
+  border-radius: 50px;
+  width: 75px;
+  height: 75px;
+  text-align: center;
+  padding: 23px;
+}
+
+/* line 149, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.background2 {
+  background: url("trainer1.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding-top: 100px;
+  padding-bottom: 400px;
+  height: 100%;
+}
+
+/* line 160, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.easy {
+  margin-top: 65px;
+  text-align: center;
+}
+
+/* line 166, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.argu1 {
+  margin-top: 83px;
+  margin-right: 29px;
+  margin-left: 98px;
+  width: 50%;
+}
+
+/* line 173, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.argu2 {
+  margin-top: 20px;
+  border-color: white;
+}
+
+/* line 178, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.boost {
+  margin-bottom: 45px;
+}
+
+/* line 182, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.btn {
+  margin-top: 6px;
+  margin-bottom: 16px;
+  background-color: #2FC7AB;
+  border-radius: 30px;
+}
+
+/* line 189, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.form {
+  margin-top: 80px;
+  margin-bottom: 60px;
+  background-color: #1A2A3A;
+  margin-left: 75px;
+  margin-right: 75px;
+  color: #F1F1F1;
+  padding: 40px;
+}
+
+/* line 199, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.interest {
+  margin-bottom: 10px;
+  justify-content: space-between;
+}
+
+/* line 204, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.title2 {
+  margin-bottom: 50px;
+  color: #F1F1F1;
+}
+
+/* line 209, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.title3 {
+  margin-top: 35px;
+}
+
+/* line 213, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.radioo {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+/* line 218, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.Iam {
+  margin-right: 10px;
+}
+
+/* line 222, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.email {
+  margin-bottom: 15px;
+}
+
+/* line 226, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.input-group .form-control {
+  position: relative;
+  z-index: 2;
+  float: left;
+  width: 33%;
+  margin-bottom: 10px;
+  margin-left: 300px;
+  padding: 20px;
+}
+
+/* line 237, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.input-group {
+  margin-left: 100px;
+}
+
+/* line 241, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.input-group-addon {
+  border-right: 100px;
+  margin-left: 300px;
+}
+
+/* line 246, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.input-group-addon {
+  margin-left: 300px;
+}
+
+/* line 250, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.footer {
+  margin-top: 10px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  background-color: #1A2A3A;
+}
+
+/* line 257, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.copyright {
+  color: #9E9E9E;
+  font-size: 12px;
+  margin-left: 5px;
+}
+
+/* line 263, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.infos {
+  color: #2FC7AB;
+  margin-left: 620px;
+}
+
+/* line 268, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.hello {
+  color: #2FC7AB;
+  font-size: 30px;
+  margin-left: 13px;
+  margin-right: 15px;
+}
+
+/* line 275, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.phone {
+  margin-top: 5px;
+  margin-left: 8px;
+}
+
+@-webkit-keyframes hvr-buzz-out {
+  10% {
+    -webkit-transform: translateX(3px) rotate(2deg);
+    transform: translateX(3px) rotate(2deg);
+  }
+  20% {
+    -webkit-transform: translateX(-3px) rotate(-2deg);
+    transform: translateX(-3px) rotate(-2deg);
+  }
+  30% {
+    -webkit-transform: translateX(3px) rotate(2deg);
+    transform: translateX(3px) rotate(2deg);
+  }
+  40% {
+    -webkit-transform: translateX(-3px) rotate(-2deg);
+    transform: translateX(-3px) rotate(-2deg);
+  }
+  50% {
+    -webkit-transform: translateX(2px) rotate(1deg);
+    transform: translateX(2px) rotate(1deg);
+  }
+  60% {
+    -webkit-transform: translateX(-2px) rotate(-1deg);
+    transform: translateX(-2px) rotate(-1deg);
+  }
+  70% {
+    -webkit-transform: translateX(2px) rotate(1deg);
+    transform: translateX(2px) rotate(1deg);
+  }
+  80% {
+    -webkit-transform: translateX(-2px) rotate(-1deg);
+    transform: translateX(-2px) rotate(-1deg);
+  }
+  90% {
+    -webkit-transform: translateX(1px) rotate(0);
+    transform: translateX(1px) rotate(0);
+  }
+  100% {
+    -webkit-transform: translateX(-1px) rotate(0);
+    transform: translateX(-1px) rotate(0);
+  }
+}
+@keyframes hvr-buzz-out {
+  10% {
+    -webkit-transform: translateX(3px) rotate(2deg);
+    transform: translateX(3px) rotate(2deg);
+  }
+  20% {
+    -webkit-transform: translateX(-3px) rotate(-2deg);
+    transform: translateX(-3px) rotate(-2deg);
+  }
+  30% {
+    -webkit-transform: translateX(3px) rotate(2deg);
+    transform: translateX(3px) rotate(2deg);
+  }
+  40% {
+    -webkit-transform: translateX(-3px) rotate(-2deg);
+    transform: translateX(-3px) rotate(-2deg);
+  }
+  50% {
+    -webkit-transform: translateX(2px) rotate(1deg);
+    transform: translateX(2px) rotate(1deg);
+  }
+  60% {
+    -webkit-transform: translateX(-2px) rotate(-1deg);
+    transform: translateX(-2px) rotate(-1deg);
+  }
+  70% {
+    -webkit-transform: translateX(2px) rotate(1deg);
+    transform: translateX(2px) rotate(1deg);
+  }
+  80% {
+    -webkit-transform: translateX(-2px) rotate(-1deg);
+    transform: translateX(-2px) rotate(-1deg);
+  }
+  90% {
+    -webkit-transform: translateX(1px) rotate(0);
+    transform: translateX(1px) rotate(0);
+  }
+  100% {
+    -webkit-transform: translateX(-1px) rotate(0);
+    transform: translateX(-1px) rotate(0);
+  }
+}
+/* line 364, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.hvr-buzz-out {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent;
+  color: #F1F1F1;
+  font-weight: 500;
+}
+
+/* line 373, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.hvr-buzz-out:hover, .hvr-buzz-out:focus, .hvr-buzz-out:active {
+  -webkit-animation-name: hvr-buzz-out;
+  animation-name: hvr-buzz-out;
+  -webkit-animation-duration: 0.75s;
+  animation-duration: 0.75s;
+  -webkit-animation-timing-function: linear;
+  animation-timing-function: linear;
+  -webkit-animation-iteration-count: 1;
+  animation-iteration-count: 1;
+  color: #F1F1F1;
+  border-color: #1A2A3A;
+}
+
+/* line 386, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.list-inline {
+  display: flex;
+  justify-content: center;
+}
+
+/* line 391, /Users/Alex/code/AlexTombeur/Vengaaa/app/assets/stylesheets/pages.scss */
+.banner-middle {
+  background-color: #F1F1F2;
+  color: #1A2A3A;
+  padding-bottom: 20px;
+}
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+
+
+ */
+
